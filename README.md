@@ -17,7 +17,7 @@
 - <strong><i>❤️ Javascript Developer ❤️</i></strong>
 <br><br>
 
-<p align="center"><a href="https://www.linkedin.com/in/shailendrakrsk/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-24.png"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/shailendrakr.sk"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/facebook-24.png"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shailendrakrsk"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-24.png"></a>&nbsp;&nbsp;<a href="https://www.twitter.com/shailendrakrsk_"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-24.png"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/shailendrakrsk/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/shailendrakr.sk"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/facebook-48.png"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shailendrakrsk"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png"></a>&nbsp;&nbsp;<a href="https://www.twitter.com/shailendrakrsk_"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-48.png"></a></p>
 
 
 <p align="center"><a href="https://github.com/develover-sk/github-readme-stats">
