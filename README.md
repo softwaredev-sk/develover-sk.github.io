@@ -1,8 +1,9 @@
+<body style="background-color:#606060">
 <h1 align="center">Hi, I'm Shailendra Kumar 👨‍💼</h1>
 <p align="center">☁&nbsp;FULL STACK WEB DEVELOPER&nbsp;☁</p>
 <br>
 
-<p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/shailendrakrsk-HackerRank-updated.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/develover-sk/develover-sk/main/shailendrakrsk-HackerRank-updated.png"></p>
 
 - COMPUTER SCIENCE AND ENGINEERING - B.TECH
 
@@ -48,3 +49,4 @@ NOTE: 'Most Used Languages' card does not indicate my skill level or something l
 <p align="center">❤️&nbsp;&nbsp;<img src="https://media.giphy.com/media/jRf4JCqluUqIV8AfLm/giphy.gif" height="80px"/>&nbsp;&nbsp;❤️</p>
 </div>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF0037&size=30&center=true&vCenter=true&lines=Nice+to+meet+you!)](https://git.io/typing-svg)
+</body>
