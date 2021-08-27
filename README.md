@@ -47,8 +47,8 @@ NOTE: 'Most Used Languages' card does not indicate my skill level or something l
 <p align="center"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100px"/></p>
 
 <p align="center">❤️&nbsp;&nbsp;<img src="https://media.giphy.com/media/jRf4JCqluUqIV8AfLm/giphy.gif" height="80px"/>&nbsp;&nbsp;❤️</p>
-
+ </div>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF0037&size=30&center=true&vCenter=true&lines=Nice+to+meet+you!)](https://git.io/typing-svg)
   
-</div>
+
