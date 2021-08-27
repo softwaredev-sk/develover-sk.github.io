@@ -17,7 +17,7 @@
 <br>
 - <strong><i>❤️ Javascript Developer ❤️</i></strong>
 <br><br>
-  <div style="padding:15px;">
+  <div style="margin:15px; padding:15px;">
 <p align="center"><a href="https://www.linkedin.com/in/shailendrakrsk/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-24.png"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/shailendrakr.sk"><img src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/facebook-24.png"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shailendrakrsk"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-24.png"></a>&nbsp;&nbsp;<a href="https://www.twitter.com/shailendrakrsk_"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-24.png"></a></p>
 </div>
 
@@ -54,9 +54,6 @@ NOTE: 'Most Used Languages' card does not indicate my skill level or something l
   
   </body>
   
-  <div style="background-color: #909090;">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF0037&size=30&center=true&vCenter=true&lines=Nice+to+meet+you!)](https://git.io/typing-svg)
  
-</div>
-
