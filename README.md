@@ -2,7 +2,6 @@
 <p align="center">☁&nbsp;FULL STACK WEB DEVELOPER&nbsp;☁</p>
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=develover-sk&label=Profile+Visits&color=A51C30"></p>
 <p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/shailendrakrsk-HackerRank-updated.png"></p>
 
 - COMPUTER SCIENCE AND ENGINEERING - B.TECH
