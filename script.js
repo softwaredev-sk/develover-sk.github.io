@@ -1,5 +1,5 @@
+//selected night mode button
 const nightBtn = document.querySelector('.header__menu-0');
-// const nightBtnSpan = document.querySelector('#nightbtn');
 const bdy = document.body;
 const img = document.querySelector('.main__image');
 const hdr1 = document.querySelector('#home');
@@ -7,6 +7,7 @@ const hdr2 = document.querySelector('#portfolio');
 const hdr3 = document.querySelector('#contact');
 const hdr4 = document.querySelector('#resume');
 const foot = document.querySelector('.footer');
+// selected name text under span
 const name = document.querySelector('.main__text span');
 nightBtn.addEventListener('click', () => {
     if (nightBtn.textContent === '🌑') {
