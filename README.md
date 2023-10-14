@@ -1,5 +1,1 @@
-#  develover-sk.github.io 
-
-portfolio
-
-## DEPRECIATED
+# DEPRECIATED PORTFOLIO
